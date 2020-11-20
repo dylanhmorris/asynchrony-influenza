@@ -1,0 +1,252 @@
+,Id,season,vaccination_status,vaccination_matched,ref,var,aa_pos,aa_consensus,aa_var,H3_pos,is_aa_substitution,freq_var,antigenic_site,is_antigenic_site,is_antigenic_ridge,vaccination_class
+0,507,2005-2006,True,True,A,G,202,T,A,187.0,True,0.0232850868838,B,True,False,matched
+1,88,2007-2008,True,True,C,T,288,P,S,273.0,True,0.013634778351600001,C,True,False,matched
+2,85,2007-2008,False,False,G,A,68,D,N,53.0,True,0.012413596572,C,True,False,unvaccinated
+3,54,2007-2008,False,False,G,G,223,K,R,208.0,True,0.0160937198493,D,True,False,unvaccinated
+4,50,2007-2008,True,True,A,C,253,K,N,238.0,True,0.0289561561164,D,True,False,matched
+5,46,2007-2008,True,True,A,G,293,N,D,278.0,True,0.030179876464999998,C,True,False,matched
+6,10,2007-2008,False,False,A,G,229,I,V,214.0,True,0.03442606776669999,D,True,False,unvaccinated
+7,3,2007-2008,False,False,G,G,223,K,R,208.0,True,0.0149596923344,D,True,False,unvaccinated
+8,509,2005-2006,True,True,C,T,70,P,S,55.0,True,0.010792654121,,False,False,matched
+9,103,2007-2008,True,True,C,A,373,S,Y,29.0,True,0.05648056924880001,,False,False,matched
+10,89,2007-2008,True,True,G,A,445,A,T,101.0,True,0.0277893185793,,False,False,matched
+11,78,2007-2008,True,True,A,C,513,N,H,169.0,True,0.0161956728659,,False,False,matched
+12,66,2007-2008,True,True,A,T,409,Q,L,65.0,True,0.010084099902,,False,False,matched
+13,27,2007-2008,False,False,G,A,64,G,S,49.0,True,0.0305956247485,,False,False,unvaccinated
+14,17,2007-2008,True,True,A,A,537,M,I,-99999.0,True,0.41631038599799997,,False,False,matched
+15,14,2007-2008,True,True,G,A,284,R,K,269.0,True,0.07884190974010001,,False,False,matched
+16,12,2007-2008,True,True,G,T,349,A,S,5.0,True,0.0174800438584,,False,False,matched
+17,6,2007-2008,False,False,C,A,94,F,L,79.0,True,0.039656711127,,False,False,unvaccinated
+18,530,2005-2006,True,True,,,,,,,False,0.0,,False,False,matched
+19,529,2005-2006,True,True,,,,,,,False,0.0,,False,False,matched
+20,511,2005-2006,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+21,510,2005-2006,True,True,,,,,,,False,0.0,,False,False,matched
+22,508,2005-2006,True,True,,,,,,,False,0.0,,False,False,matched
+23,504,2005-2006,True,True,,,,,,,False,0.0,,False,False,matched
+24,503,2005-2006,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+25,427,2004-2005,True,False,,,,,,,False,0.0,,False,False,not matched
+26,426,2004-2005,True,False,,,,,,,False,0.0,,False,False,not matched
+27,414,2004-2005,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+28,409,2004-2005,True,False,,,,,,,False,0.0,,False,False,not matched
+29,406,2004-2005,True,False,,,,,,,False,0.0,,False,False,not matched
+30,404,2004-2005,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+31,403,2004-2005,True,False,,,,,,,False,0.0,,False,False,not matched
+32,402,2004-2005,True,False,,,,,,,False,0.0,,False,False,not matched
+33,401,2004-2005,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+34,400,2004-2005,True,False,,,,,,,False,0.0,,False,False,not matched
+35,106,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+36,105,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+37,104,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+38,101,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+39,100,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+40,98,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+41,86,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+42,84,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+43,82,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+44,81,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+45,80,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+46,79,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+47,76,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+48,74,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+49,73,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+50,72,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+51,71,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+52,67,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+53,64,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+54,61,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+55,57,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+56,56,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+57,55,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+58,51,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+59,49,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+60,47,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+61,43,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+62,42,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+63,41,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+64,39,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+65,34,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+66,33,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+67,31,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+68,29,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+69,28,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+70,26,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+71,25,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+72,22,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+73,19,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+74,18,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+75,16,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+76,15,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+77,11,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+78,8,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+79,7,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+80,5,2007-2008,True,True,,,,,,,False,0.0,,False,False,matched
+81,4,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+82,2,2007-2008,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+83,50628,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+84,50632,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+85,50169,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+86,50553,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+87,50482,2014-2015,True,False,G,A,[307],D,N,-99999.0,True,0.048947720117,,False,False,not matched
+88,50630,2014-2015,True,False,A,T,[258],I,L,242.0,True,0.163602839312,D,True,False,not matched
+89,50620,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+90,50619,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+91,50618,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+92,50319,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+93,50318,2014-2015,True,False,G,A,[478],M,I,-99999.0,True,0.0439763850454,,False,False,not matched
+94,50207,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+95,50832,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+96,50429,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+97,50307,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+98,50769,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+99,50969,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+100,50717,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+101,51105,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+102,51416,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+103,50316,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+104,50830,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+105,50141,2014-2015,True,False,C,A,[69],D,E,53.0,True,0.0251913260241,C,True,False,not matched
+106,50322,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+107,50874,2014-2015,True,False,A,T,[486],Y,F,-99999.0,True,0.103900854115,,False,False,not matched
+108,50678,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+109,51359,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+110,50428,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+111,51438,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+112,51439,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+113,50935,2014-2015,False,False,T,C,[209],F,S,193.0,True,0.17456254321800002,B,True,True,unvaccinated
+114,50261,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+115,50006,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+116,50968,2014-2015,True,False,A,C,[284],M,L,-99999.0,True,0.0341160572648,,False,False,not matched
+117,50967,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+118,51106,2014-2015,True,False,A,G,[144],T,A,128.0,True,0.110522479152,B,True,False,not matched
+119,50538,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+120,50540,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+121,50230,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+122,50305,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+123,50331,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+124,51046,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+125,51132,2014-2015,True,False,T,C,[258],I,T,242.0,True,0.0280369911772,D,True,False,not matched
+126,50812,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+127,51336,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+128,50232,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+129,51220,2014-2015,True,False,G,T,[205],K,N,189.0,True,0.0378270981645,B,True,True,not matched
+130,50677,2014-2015,True,False,A,A,[451],R,H,-99999.0,True,0.350987594845,,False,False,not matched
+131,51096,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+132,50809,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+133,50120,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+134,50785,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+135,50784,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+136,51054,2014-2015,True,False,T,C,[348],F,L,-99999.0,True,0.1771161047,,False,False,not matched
+137,51055,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+138,50150,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+139,51000,2014-2015,True,False,T,A,[499],N,K,-99999.0,True,0.041457334680800005,,False,False,not matched
+140,51097,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+141,51073,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+142,50558,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+143,50851,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+144,51101,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+145,50468,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+146,50842,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+147,51057,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+148,51058,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+149,51059,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+150,50767,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+151,50419,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+152,50418,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+153,50676,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+154,51138,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+155,51137,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+156,50850,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+157,50466,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+158,50467,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+159,50879,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+160,50003,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+161,50001,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+162,50004,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+163,50167,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+164,50164,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+165,51322,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+166,50246,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+167,50993,2014-2015,True,False,C,T,[130],S,L,-99999.0,True,0.03155529827590001,,False,False,not matched
+168,50727,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+169,50143,2014-2015,True,False,G,G,[323],I,R,307.0,True,0.118965758211,C,True,False,not matched
+170,50910,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+171,300828,2010-2011,True,True,,,,,,,False,0.0,,False,False,matched
+172,301529,2010-2011,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+173,301530,2010-2011,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+174,300341,2010-2011,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+175,301072,2010-2011,True,True,,,,,,,False,0.0,,False,False,matched
+176,301306,2010-2011,True,True,,,,,,,False,0.0,,False,False,matched
+177,301125,2010-2011,True,True,,,,,,,False,0.0,,False,False,matched
+178,300671,2010-2011,True,True,,,,,,,False,0.0,,False,False,matched
+179,301024,2010-2011,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+180,301023,2010-2011,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+181,301120,2010-2011,True,True,,,,,,,False,0.0,,False,False,matched
+182,300293,2010-2011,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+183,300294,2010-2011,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+184,300685,2010-2011,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+185,301355,2010-2011,True,True,C,A,[102],L,I,86.0,True,0.0876081589394,E,True,False,matched
+186,301357,2010-2011,True,True,,,,,,,False,0.0,,False,False,matched
+187,300788,2010-2011,True,True,,,,,,,False,0.0,,False,False,matched
+188,300688,2010-2011,True,True,,,,,,,False,0.0,,False,False,matched
+189,300481,2010-2011,False,False,A,G,[78],E,G,62.0,True,0.0712147345665,E,True,False,unvaccinated
+190,300670,2010-2011,True,True,T,T,[10],T,I,-99999.0,True,0.0324267782427,,False,False,matched
+191,320216,2011-2012,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+192,320015,2011-2012,True,True,,,,,,,False,0.0,,False,False,matched
+193,320661,2011-2012,True,True,T,C,[313],V,A,297.0,True,0.0713594212038,C,True,False,matched
+194,320110,2011-2012,True,True,,,,,,,False,0.0,,False,False,matched
+195,321372,2011-2012,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+196,320645,2011-2012,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+197,320468,2011-2012,True,True,,,,,,,False,0.0,,False,False,matched
+198,330450,2012-2013,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+199,330452,2012-2013,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+200,330744,2012-2013,True,True,,,,,,,False,0.0,,False,False,matched
+201,331138,2012-2013,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+202,331045,2012-2013,True,True,T,C,[230],I,T,214.0,True,0.06565075017519999,D,True,False,matched
+203,330589,2012-2013,True,True,,,,,,,False,0.0,,False,False,matched
+204,330601,2012-2013,True,True,,,,,,,False,0.0,,False,False,matched
+205,330307,2012-2013,True,True,,,,,,,False,0.0,,False,False,matched
+206,331482,2012-2013,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+207,330243,2012-2013,True,True,,,,,,,False,0.0,,False,False,matched
+208,330035,2012-2013,True,True,,,,,,,False,0.0,,False,False,matched
+209,331395,2012-2013,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+210,330032,2012-2013,True,True,,,,,,,False,0.0,,False,False,matched
+211,330441,2012-2013,True,True,,,,,,,False,0.0,,False,False,matched
+212,331061,2012-2013,True,True,,,,,,,False,0.0,,False,False,matched
+213,330949,2012-2013,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+214,330693,2012-2013,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+215,331433,2012-2013,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+216,330136,2012-2013,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+217,330897,2012-2013,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+218,330133,2012-2013,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+219,331541,2012-2013,False,False,A,G,[524],K,E,-99999.0,True,0.0796845583444,,False,False,unvaccinated
+220,50552,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+221,50359,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+222,50551,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+223,50206,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+224,50168,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+225,50171,2014-2015,False,False,G,A,[495],G,R,-99999.0,True,0.111588923505,,False,False,unvaccinated
+226,50007,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+227,50330,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+228,50539,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+229,50399,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+230,50786,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+231,51273,2014-2015,True,False,G,A,[278],S,N,262.0,True,0.0301231869331,E,True,False,not matched
+232,51041,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+233,51043,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+234,51335,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+235,50332,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+236,50921,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+237,51225,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+238,50161,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+239,50197,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+240,50852,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+241,51216,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+242,50556,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+243,51074,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+244,51162,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+245,51288,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+246,51267,2014-2015,False,False,,,,,,,False,0.0,,False,False,unvaccinated
+247,50288,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+248,50323,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched
+249,50068,2014-2015,True,False,G,T,[288],A,S,-99999.0,True,0.0749459857027,,False,False,not matched
+250,50992,2014-2015,True,False,,,,,,,False,0.0,,False,False,not matched

@@ -1,0 +1,16 @@
+.DS_Store
+
+# tex files
+*.log
+*.fdb_latexmk
+*.fls
+*.aux
+*.bcf
+*.out
+*.xml
+*.gz
+
+# emacs
+*#*
+*~*
+*~*

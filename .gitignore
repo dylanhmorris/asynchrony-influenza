@@ -1,0 +1,41 @@
+# python
+*.pyc
+
+# R files
+.RData
+
+# emacs
+#*
+*~
+*#
+.#*
+
+# macOS
+.DS_Store
+
+# data files
+*.Rhistory
+*.db
+
+# output/executable files
+*.out
+*.exe
+*.o
+*.ipynb
+
+
+# build and run directories
+obj
+bin
+test
+ms_build
+out
+
+# misc untracked dirs
+lit
+cons
+doc
+lib
+
+# pyvenv config
+pyvenv.cfg
